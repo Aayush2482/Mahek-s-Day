@@ -160,7 +160,7 @@ export default function BirthdayPortfolio() {
 
         <div className="grid md:grid-cols-2 gap-8">
           {[
-            { title: "✨ Favourite Things", text: "Tea, peaceful places, drive with me,  ." },
+            { title: "✨ Favourite Things", text: "Tea, peaceful places, drive with me." },
             { title: "💖 Likes & Dislikes", text: "Loves deep talks, music that matches her mood, doesent likes being taken for granted." },
             { title: "🦸 Superpower", text: "Kindness and Honesty." },
             { title: "🌟 Dreams & Destiny", text: "To shine and achieve goals, have a pleasant life, destinations(Paris, Singapore)." },
